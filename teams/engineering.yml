@@ -48,4 +48,4 @@ team_settings:
 software:
   packages:
     - path: ../lib/windows/software/cloudflare-warp.yml
-    self_service: false
+      self_service: false
